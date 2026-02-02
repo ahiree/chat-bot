@@ -1,10 +1,10 @@
 Django==5.2.10
-djangorestframework==3.16.1
-djangorestframework_simplejwt==5.5.1
-groq==1.0.0
-python-dotenv==1.2.1
-pypdf==6.6.2
-python-docx==1.2.0
-lxml==6.0.2
-requests==2.32.5
-gunicorn==22.0.0
+djangorestframework
+gunicorn
+
+numpy
+faiss-cpu
+sentence-transformers
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+huggingface_hub
