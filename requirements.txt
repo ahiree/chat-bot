@@ -7,7 +7,7 @@ faiss-cpu
 sentence-transformers
 transformers
 huggingface_hub
-torch==2.2.2+cpu --index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2
 
 groq
 pypdf
